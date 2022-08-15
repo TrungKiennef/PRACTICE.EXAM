@@ -19,7 +19,7 @@ void xuatmang(int a[], int n)
 }
 
 int KTSNT(int n);
-if (n < 2) { 
+	if (n < 2) { 
 	return 0;
  } 
     if (n > 2){
@@ -57,4 +57,5 @@ nhapmang (a, n);
 xuatmang (a, n);
 
 printf ("khong co so nguyen to: " );
+geth();
 }
